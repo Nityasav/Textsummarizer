@@ -65,7 +65,7 @@ Update the max_length and min_length parameters in the summarizer call to contro
 **Limitations:
 Scraper Specificity:**
 
-This script targets articles with <h1> and <p> tags. It might need adjustments for differently structured websites.
+This script targets articles with h1 and p tags. It might need adjustments for differently structured websites.
 
 **Text Length:**
 

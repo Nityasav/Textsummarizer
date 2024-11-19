@@ -23,7 +23,7 @@ pip install transformers beautifulsoup4 requests
 Initialize Summarizer
 The Hugging Face pipeline for summarization is initialized to handle the summarization tasks.
 
-**Web Scraping:**
+_Web Scraping:_
 
 The program fetches content from a specified URL using requests.
 BeautifulSoup parses the HTML and extracts text from <h1> and <p> tags.
